@@ -45,3 +45,4 @@ public class HelloController {
 	        return "Error: " + e.getMessage();
 	    }
 	}
+}
